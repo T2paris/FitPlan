@@ -145,12 +145,6 @@ npx tsc --noEmit
 
 ---
 
-## 🔐 Permissions
-
-- **Location (when in use)** — to record the route and distance of your runs.
-- **Background location (iOS)** — to keep recording with the screen locked. On Android, a foreground service is used instead.
-
----
 
 ## 📄 Documentation & License
 
