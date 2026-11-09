@@ -43,8 +43,7 @@ FitPlan/
 ├── .env.example                   # Environment variables template
 ├── assets/                        # Icons, splash and images
 ├── scripts/                       # Project scripts
-├── Relatorio_FitPlan.pdf          # Project report
-└── src/
+└── src/                           # Project report
     ├── app/                       # Routes (Expo Router)
     │   ├── _layout.tsx            # Root layout
     │   ├── index.tsx              # Home screen
